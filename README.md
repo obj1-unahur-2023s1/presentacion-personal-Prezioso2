@@ -1,10 +1,10 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Mi Foto](./assets/foto.png)
 
 Bienvenidos a
-# Programación con objetos I
+# Mi presentacion
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Me llamo Franco Agustin Prezioso, soy estudiante de la licenciatura en informatica, 
+y vengo a escribir mucho codigo porque es divertido escribir cosas y que salga lo que esta en tu cabeza
 
 ```
 object programacionConObjetos { 
@@ -14,22 +14,41 @@ object programacionConObjetos {
 }
 ```
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+## Datos mios :book:
+* Juego lol
+* Juego terraria
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+## SI LEES ESTO SE BUSCA COMPAÑEROS PARA EL TEAM
+- favor de hablarme al md de discord de la universidad si estan interesados en hacer grupo
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+### REQUISITOS
+* No estar afk
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+* Respirar (opcional)
+
+* Tener imaginacion :sunglasses:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Goku](./assets/goku.png)
+
+Que miras bobo?
+
